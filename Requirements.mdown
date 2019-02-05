@@ -1,0 +1,10 @@
+# Requirements for Payroll System Questions
+#### Terrence Hall
+
+..* How do you want the time sheet to look?
+..* How is timekeeping going to be handled?
+..* What all Employee Infprmation will be required in system?
+..* Should the system include your onboarding process, and if so what does that process look like?
+..* How should taxes be handled?
+..* How should payroll be handled and whats the process?
+..* What should the reporting process entail?
